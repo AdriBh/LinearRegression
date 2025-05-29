@@ -64,3 +64,10 @@ Some categorical features are label-encoded, and the price is log-transformed to
 
 ---
 
+## 📁 Dataset
+
+The dataset used for this project is publicly available on Kaggle:
+
+🔗 **[House Price Prediction Dataset](https://www.kaggle.com/datasets/ujjwalchowdhury/house-price-prediction-dataset)**  
+➡️ https://www.kaggle.com/datasets/ujjwalchowdhury/house-price-prediction-dataset
+
